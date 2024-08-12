@@ -1,0 +1,129 @@
+{
+    "sunucusaati": {
+        "gun": 11,
+        "saat": 8,
+        "dakika": 11,
+        "saniye": 11,
+        "milisaniye": 268
+    },
+    "konumBilgileri": [
+        {
+            "takim_numarasi": 1,
+            "iha_enlem": 41.5678256,
+            "iha_boylam": 36.11993,
+            "iha_irtifa": 36.0,
+            "iha_dikilme": -8.0,
+            "iha_yonelme": 127,
+            "iha_yatis": 19.0,
+            "iha_hizi": 41.0,
+            "zaman_farki": 467
+        },
+        {
+            "takim_numarasi": 2,
+            "iha_enlem": 41.5800365,
+            "iha_boylam": 36.11837,
+            "iha_irtifa": 44.0,
+            "iha_dikilme": 24.0,
+            "iha_yonelme": 277.0,
+            "iha_yatis": -37.0,
+            "iha_hizi": 40.0,
+            "zaman_farki": 248
+        },
+        {
+            "takim_numarasi": 3,
+            "iha_enlem": 41.5123138,
+            "iha_boylam": 36.22,
+            "iha_irtifa": 32.0,
+            "iha_dikilme": 9.0,
+            "iha_yonelme": 13,
+            "iha_yatis": -30.0,
+            "iha_hizi": 45.0,
+            "zaman_farki": 30
+        },
+        
+        {
+            "takim_numarasi": 4,
+            "iha_enlem": 41.1178256,
+            "iha_boylam": 36.31993,
+            "iha_irtifa": 36.0,
+            "iha_dikilme": -8.0,
+            "iha_yonelme": 127,
+            "iha_yatis": 19.0,
+            "iha_hizi": 41.0,
+            "zaman_farki": 467
+        },
+        {
+            "takim_numarasi": 5,
+            "iha_enlem": 41.6179256,
+            "iha_boylam": 36.42003,
+            "iha_irtifa": 36.5,
+            "iha_dikilme": -7.5,
+            "iha_yonelme": 128,
+            "iha_yatis": 18.5,
+            "iha_hizi": 41.2,
+            "zaman_farki": 470
+        },
+        {
+            "takim_numarasi": 6,
+            "iha_enlem": 41.3337256,
+            "iha_boylam": 36.51983,
+            "iha_irtifa": 35.5,
+            "iha_dikilme": -8.2,
+            "iha_yonelme": 126,
+            "iha_yatis": 19.2,
+            "iha_hizi": 40.8,
+            "zaman_farki": 465
+        },
+        {
+            "takim_numarasi": 7,
+            "iha_enlem": 41.6676256,
+            "iha_boylam": 36.61973,
+            "iha_irtifa": 36.3,
+            "iha_dikilme": -8.1,
+            "iha_yonelme": 127.5,
+            "iha_yatis": 18.8,
+            "iha_hizi": 41.1,
+            "zaman_farki": 468
+        },
+        {
+            "takim_numarasi": 8,
+            "iha_enlem": 41.7675256,
+            "iha_boylam": 36.71963,
+            "iha_irtifa": 35.8,
+            "iha_dikilme": -7.9,
+            "iha_yonelme": 126.5,
+            "iha_yatis": 19.3,
+            "iha_hizi": 40.9,
+            "zaman_farki": 466
+        },
+        {
+            "takim_numarasi": 9,
+            "iha_enlem": 41.884256,
+            "iha_boylam": 36.81953,
+            "iha_irtifa": 36.1,
+            "iha_dikilme": -8.3,
+            "iha_yonelme": 127.2,
+            "iha_yatis": 19.1,
+            "iha_hizi": 41.3,
+            "zaman_farki": 469
+        },
+        
+        {
+            "takim_numarasi": 5,
+            "iha_enlem": 41.6563138,
+            "iha_boylam": 36.56,
+            "iha_irtifa": -0.126,
+            "iha_dikilme": -0.03935893252491951,
+            "iha_yonelme": 1.1914584636688232,
+            "iha_yatis": 0.00641934759914875,
+            "iha_hiz": 0.0,
+            "iha_batarya": 100,
+            "gps_saati": {
+                "saat": 0,
+                "dakika": 0,
+                "saniye": 0,
+                "milisaniye": 0
+            }
+        }
+    ]
+}
